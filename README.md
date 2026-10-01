@@ -1,12 +1,14 @@
 <div align="center">
   <h2>Hi there! 👋 I am John Benedict Ligeralde</h2>
-  <!--Links-->
+  <!--LinkedIn-->
   <a href="https://www.linkedin.com/in/john-benedict-s-ligeralde-1055702a1/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logoSize=auto">
   </a>
+  <!--Gmail-->
   <a href="mailto:johnbenedictsligeralde@gmail.com" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-gray?style=flat-square&logo=gmail&logoSize=auto&labelColor=%23FFFFFF">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-black?style=flat-square&logo=gmail&logoSize=auto&labelColor=%23FFFFFF">
   </a>
+  <!--Facebook-->
   <a href="https://www.facebook.com/john.benedict.s.ligeralde" target="_blank">
     <img alt="Facebook Badge" src="https://img.shields.io/badge/FACEBOOK-blue?style=flat-square&logo=facebook">
   </a>
