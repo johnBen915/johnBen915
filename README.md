@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ## 🛠️ Language and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,javascript,react,tailwind,python,androidstudio,kotlin,figma,vscode,aws,canva" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,javascript,react,tailwind,python,androidstudio,kotlin,figma,vscode,aws" />
   </a>
 </p>
 
