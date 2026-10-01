@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠️ Language and Tools
-<div align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,javascript,react,tailwind,python,kotlin,figma,vscode,aws" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,javascript,react,tailwind,python,androidstudio,kotlin,figma,vscode,aws,canva" />
   </a>
-</div>
+</p>
 
 ---
