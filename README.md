@@ -1,21 +1,6 @@
-<!--
-**johnBen915/johnBen915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
   <h2>Hi there! 👋 I am John Benedict Ligeralde</h2>
-  
+  <!--Links-->
   <a href="https://www.linkedin.com/in/john-benedict-s-ligeralde-1055702a1/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-blue?style=flat-square&logoSize=auto">
   </a>
@@ -27,6 +12,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<br>
+
 ## 🧑‍💻 About Me
 <div align="center">
   - A Fourth Year Student majoring in System Development from PHINMA - University of pangasinan focus on developing Web Application. <br><br>
@@ -37,6 +24,8 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
+<br>
 
 ## 🛠️ Language and Tools
 <p align="center">
