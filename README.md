@@ -6,11 +6,15 @@
   </a>
   <!--Gmail-->
   <a href="mailto:johnbenedictsligeralde@gmail.com" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-black?style=flat-square&logo=gmail&logoSize=auto&labelColor=%23FFFFFF">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-black?style=flat-square&logo=gmail&logoSize=auto&labelColor=%23000000">
   </a>
   <!--Facebook-->
   <a href="https://www.facebook.com/john.benedict.s.ligeralde" target="_blank">
     <img alt="Facebook Badge" src="https://img.shields.io/badge/FACEBOOK-blue?style=flat-square&logo=facebook">
+  </a>
+  <!--Facebook-->
+  <a href="https://github.com/johnBen915" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-black?style=flat-square&logo=github&logoSize=auto&labelColor=%23000000">
   </a>
 </div>
 
