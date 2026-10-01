@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there! 👋 I am John Benedict Ligeralde
+![Static Badge](https://img.shields.io/badge/Facebook-blue?style=flat&link=https%3A%2F%2Fwww.facebook.com%2Fjohn.benedict.s.ligeralde)
+
 ---
