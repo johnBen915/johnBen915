@@ -36,7 +36,14 @@
 ## 🛠️ Language and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,javascript,react,tailwind,python,androidstudio,kotlin,figma,vscode,aws" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,python" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,androidstudio,kotlin,aws" />
   </a>
 </p>
 
