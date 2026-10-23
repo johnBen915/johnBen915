@@ -36,14 +36,14 @@
 ## 🛠️ Language and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
   </a>
 </p>
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,aws" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,github,figma,aws" />
   </a>
 </p>
 
